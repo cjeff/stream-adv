@@ -1,4 +1,4 @@
 # stream-adv
 Stream advanture on nodeschool
 
-This is teh readme file. trying to get used to best practices
+This is the readme file. trying to get used to best practices
