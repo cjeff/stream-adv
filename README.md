@@ -10,5 +10,6 @@ This is the readme file. trying to get used to best practices
 4. Transform
 5. Lines
 6. Concat
-
+7. Server (messed up on nodeschool's end)
+8. Client
 

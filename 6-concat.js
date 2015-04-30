@@ -1,4 +1,4 @@
-//fifth activity for stream adventure nodeschool project
+//sixth activity for stream adventure nodeschool project
 /*
 
  You will be given text on process.stdin. Buffer the text and reverse it using
@@ -20,6 +20,7 @@ var concat = require('concat-stream');
 LESSON:
 you only pipe the input into the concat function
 The concat is the endpoint - you do not pipe it further
+(Think of this as a "sum", rather than a "for each")
 you call the next step within the concat function - in this case, outputting
  */
 
