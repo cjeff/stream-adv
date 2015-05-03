@@ -15,3 +15,5 @@ This is the readme file. trying to get used to best practices
 9. Websocket
 10. HTML Stream
 11. Duplexer
+12. Duplexer 2
+
