@@ -13,3 +13,5 @@ This is the readme file. trying to get used to best practices
 7. Server (messed up on nodeschool's end)
 8. Client
 9. Websocket
+10. HTML Stream
+11. Duplexer
